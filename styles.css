@@ -46,5 +46,13 @@
   .article-content h2,.what-body h2{font-size:30px}
   .article-content pre{max-width:100%}
 }
+/* Tighten the space below the introduction. */
+.intro {
+  row-gap: 24px;
+  padding-bottom: 56px;
+}
+.intro > .section-tools {
+  margin-top: 0;
+}
 
 .sectors>h2{font-size:clamp(34px,3.5vw,46px);letter-spacing:-1.4px;line-height:1.14;font-weight:600;margin:0 0 28px;color:var(--ink);text-transform:none}.contact .coffee-note{font-size:14px;color:#bfd3df;margin:30px auto 0;max-width:620px;line-height:1.7}.coffee-note a{text-underline-offset:4px}
