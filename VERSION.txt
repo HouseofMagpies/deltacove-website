@@ -1,0 +1,4 @@
+DeltaCove website v3.1 — 14 October 2026
+Eight requested copy/layout changes applied.
+Extract into a new folder and open index.html.
+Nothing deployed. Browser visual review remains outstanding.
